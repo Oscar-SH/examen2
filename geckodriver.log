@@ -184,3 +184,24 @@ DevTools listening on ws://localhost:50293/devtools/browser/85d40ecc-a0af-4299-9
 1650814159018	Marionette	INFO	Listening on port 50298
 1650814159106	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1650834608070	Marionette	INFO	Stopped listening on port 50298
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "50964" "-no-remote" "-profile" "C:\\Users\\Oscar\\AppData\\Local\\Temp\\rust_mozprofilefqcL2s"
+1650834600350	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Oscar\\AppData\\Local\\Temp\\rust_mozprofilefqcL2s\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50964/devtools/browser/6275916b-f255-4742-b22c-c2e096ee5bed
+1650834604829	Marionette	INFO	Listening on port 50969
+1650834604883	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://alianzaverde.org.co/lideres-verdes/congreso-2022/senado-2022, line 58: ReferenceError: jQuery is not defined
+1650834636408	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1650834690425	Marionette	INFO	Stopped listening on port 50969
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1650834733799	geckodriver	INFO	Listening on 127.0.0.1:51091
+1650834736841	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51092" "-no-remote" "-profile" "C:\\Users\\Oscar\\AppData\\Local\\Temp\\rust_mozprofilefBIMvN"
+1650834737545	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Oscar\\AppData\\Local\\Temp\\rust_mozprofilefBIMvN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51092/devtools/browser/9da8c4b1-3b81-4bcc-9ad2-1db48894f72b
+1650834741483	Marionette	INFO	Listening on port 51097
+1650834741678	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
